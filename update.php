@@ -4,9 +4,7 @@
 	<title>SIA Mercubuana</title>
 	<meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="bs/css/bootstrap.min.css">
-	<script src="bs/js/jquery.min.js"></script>
-	<script src="bs/js/popper.js"></script>
-	<script src="bs/js/bootstrap.js"></script>
+	
 </head>
 <body>
 
@@ -124,6 +122,10 @@
 			</div>
 		</form>
 	</div>
+
+	<script src="assets/vendor/jquery/jquery.min.js"></script>
+	<script src="assets/vendor/popper/popper.js"></script>
+	<script src="asssets/vendor/bootstrap/js/bootstrap.js"></script>
 
 </body>
 </html>

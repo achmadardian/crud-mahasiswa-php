@@ -3,11 +3,9 @@
 <head>
 	<title>SIA Mercubuana</title>
 	<meta charset="utf-8">
-	<link rel="stylesheet" type="text/css" href="style.css">
-	<link rel="stylesheet" type="text/css" href="bs/css/bootstrap.min.css">
-	<script src="bs/js/jquery.js"></script>
-	<script src="bs/js/popper.js"></script>
-	<script src="bs/js/bootstrap.js"></script>
+	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+	<link rel="stylesheet" type="text/css" href="assets/vendor/bootstrap/css/bootstrap.min.css">
+	
 </head>
 <body>
 	<nav class="navbar navbar-expand-sm bg-info navbar-dark ">
@@ -111,6 +109,10 @@
 			</div>
 		</form>
 	</div>
+
+	<script src="assets/vendor/jquery/jquery.js"></script>
+	<script src="assets/vendor/popper/popper.js"></script>
+	<script src="assets/vendor/bootstrap/js/bootstrap.min.js"></script>
 
 </body>
 </html>
