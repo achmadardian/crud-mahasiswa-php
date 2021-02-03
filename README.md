@@ -1,6 +1,6 @@
-CRUD Mahasiswa Menggunakan PHP Native
+CRUD Mahasiswa Menggunakan PHP Native.
 
-Dipersilahkan untuk mempelajari, mengubah atau memodifikasi
+Dipersilahkan untuk mempelajari, mengubah atau memodifikasi.
 
 Cara penggunaan:
 1. Ekstrak folder crud-mhs-php-native ke htdoc
